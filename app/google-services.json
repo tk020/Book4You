@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "266035051712",
+    "firebase_url": "https://book2-31f6f.firebaseio.com",
+    "project_id": "book2-31f6f",
+    "storage_bucket": "book2-31f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266035051712:android:28260d23006df3cd",
+        "android_client_info": {
+          "package_name": "com.example.ghayes.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266035051712-rqgsrfc73f9rmr37jb7s87mt9od88ki4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghayes.bookapp",
+            "certificate_hash": "96072262de5a90d079e1c31cd279bd574db9ec6d"
+          }
+        },
+        {
+          "client_id": "266035051712-34s9r79a7f7fb6bisfrbdu0fid7fgvoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFccvKaXVg_GR6k997Xv_Q3EL2dHsBYh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266035051712-34s9r79a7f7fb6bisfrbdu0fid7fgvoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266035051712:android:1f23668a6fcf0565",
+        "android_client_info": {
+          "package_name": "com.example.taehwan.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266035051712-2pkeqm8ch9r8808iiaekq20usds1d24v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taehwan.book",
+            "certificate_hash": "5dcec0116013bd866bc11f23206de32cb95cb524"
+          }
+        },
+        {
+          "client_id": "266035051712-69cnhi7l5ocros0cp44bl2h98auq101r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taehwan.book",
+            "certificate_hash": "d6378ce0df2ae77092144de63da11fe85832ecb4"
+          }
+        },
+        {
+          "client_id": "266035051712-34s9r79a7f7fb6bisfrbdu0fid7fgvoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFccvKaXVg_GR6k997Xv_Q3EL2dHsBYh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266035051712-34s9r79a7f7fb6bisfrbdu0fid7fgvoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
